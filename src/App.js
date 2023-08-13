@@ -13,20 +13,7 @@ import Classifiedposts from "./mycomponent/Pages/classifiedposts";
 function App() {
   return (
     <div className= "container">
-      {/* <Dairycounter/>
-      <br />
-      <br/>
-      <hr/>
-      <br />
-      <br/>
-      <Dairycounter2/>
-      <br />
-      <br/>
-      <hr/>
-      <br />
-      <br/>
-      <Quecounter/> */}
-      {/* <CakeShop/> */}
+
       <BrowserRouter>
       <Menu/>
       <Routes>
