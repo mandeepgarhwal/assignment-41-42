@@ -1,7 +1,4 @@
-// import Dairycounter from "./mycomponent/dairycounter";
-// import Dairycounter2 from "./mycomponent/dairycounter2";
-// import CakeShop from "./mycomponent/cakeshopwithcontext";
-// import Quecounter from "./mycomponent/quecounter";
+
 import { Home } from "./mycomponent/Pages/home";
 import { About } from "./mycomponent/Pages/about";
 import { Menu } from "./mycomponent/menu";
@@ -10,7 +7,7 @@ import Axiosapidemo from "./mycomponent/Pages/posts";
 import Pagenotfound from "./mycomponent/Pages/pagenotfound";
 import Postdetails from "./mycomponent/Pages/postdetails";
 import Classifiedposts from "./mycomponent/Pages/classifiedposts";
-// import {BrowserRouter} from 'react-router-dom'
+
 
 
 function App() {
